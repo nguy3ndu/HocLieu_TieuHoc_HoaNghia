@@ -1,0 +1,6 @@
+{
+  "name": "Kho Học Liệu Số - Tiểu Học Hòa Nghĩa",
+  "description": "Kho học liệu số cho Trường Tiểu Học Hòa Nghĩa - xem, tải và quản lý bài giảng, tài liệu điện tử theo khối lớp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
